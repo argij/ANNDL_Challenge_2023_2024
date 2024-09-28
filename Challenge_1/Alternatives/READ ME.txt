@@ -1,0 +1,3 @@
+The models in the following notebooks load a dataset named 'dataset_refined'. This dataset is the 
+cleaned version of the dataset published for the challenge. It can be built by running the 'Dataset preprocessing'
+notebook.

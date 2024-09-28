@@ -1,0 +1,2 @@
+The ensemble majority voting was implemented directly on the Model.py script. Here it can be
+found an example.
